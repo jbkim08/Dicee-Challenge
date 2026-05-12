@@ -5,3 +5,8 @@
 - 깃허브 페이지 배포
 
 [배포주소](https://jbkim08.github.io/Dicee-Challenge/)
+
+```
+랜덤숫자
+Math.floor(Math.random() * 6) + 1
+```
